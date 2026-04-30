@@ -32,7 +32,7 @@ Tenho foco em construir soluções claras, confiáveis e escaláveis, com atenç
 - Estruturação, tratamento e integração de bases de dados.
 - Criação de indicadores de performance, custos, DRE e acompanhamento operacional.
 - Automação de processos com Power Automate, Power Apps, Python e Excel.
-- Consultas, modelagem e análise em SQL Server e PostgreSQL.
+- Consultas, modelagem e análise em SQL Server, PostgreSQL e Oracle SQL.
 - Apoio à tomada de decisão com análises orientadas a negócio.
 
 ---
@@ -48,6 +48,7 @@ Tenho foco em construir soluções claras, confiáveis e escaláveis, com atenç
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-111827?style=for-the-badge&logo=powerautomate&logoColor=0066FF)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-111827?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
@@ -71,18 +72,17 @@ Use links para repositórios, dashboards publicados, portfólio ou estudos de ca
 
 ---
 
-## GitHub Analytics
+## Proficiência técnica
 
 <div align="center">
 
-<!-- Usuário do GitHub: JuanVictorPitanga -->
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanVictorPitanga&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictorPitanga&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-
-<br />
-
-<img height="170" src="https://streak-stats.demolab.com?user=JuanVictorPitanga&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+| Habilidade | Nível |
+| --- | --- |
+| PostgreSQL | ![PostgreSQL](https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=4169E1) |
+| Oracle SQL | ![Oracle SQL](https://geps.dev/progress/85?dangerColor=ef4444&warningColor=f59e0b&successColor=F80000) |
+| Python | ![Python](https://geps.dev/progress/80?dangerColor=ef4444&warningColor=f59e0b&successColor=3776AB) |
+| Power BI | ![Power BI](https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=F2C811) |
+| Power Automate | ![Power Automate](https://geps.dev/progress/75?dangerColor=ef4444&warningColor=f59e0b&successColor=0066FF) |
 
 </div>
 
